@@ -1,6 +1,6 @@
-# wallpaperapp
+# GetWallpaper
 
-A new Flutter application.
+A simple wallpaper app. i inherited all the wallpapers from pexel.com site.
 
 ## Getting Started
 
